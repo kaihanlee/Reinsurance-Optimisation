@@ -1,4 +1,4 @@
-# reinsurance-optimisation
+# Reinsurance Optimisation
 
 main code is in code.R
 
